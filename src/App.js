@@ -26,7 +26,7 @@ class App extends React.Component {
             <Nav.Link href="/read">Read</Nav.Link> 
             <Nav.Link href="/create">Create</Nav.Link>
           </Nav>
-        </Container>
+        </Container>/*sacfdqwddqwdwq*/
       </Navbar>
       <Routes> <!-- Added routing to the application so that when you click on one of the links on the Navbar it will navigate to either the footer, header or content component -->
       <Route path='/' element={<Content></Content>}></Route>
